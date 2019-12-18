@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+# Intellij
+*.iml
+*.iws
+# Maven
+.idea/
+properties/
+recuperacao/
+target/
