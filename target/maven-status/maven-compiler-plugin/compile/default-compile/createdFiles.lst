@@ -1,0 +1,5 @@
+stateMachine\server\KeyValueStore.class
+stateMachine\client\cliente.class
+stateMachine\commands\Get.class
+stateMachine\commands\Delete.class
+stateMachine\commands\Put.class
